@@ -1,7 +1,7 @@
 🌐 Personal Portfolio Website
 Welcome to my developer portfolio — a showcase of my skills, projects, and achievements in software engineering.
 
-🔗 Live Website: sagar-tharu.github.io/portfolio
+🔗 Live Website: https://sagar-tharu.github.io/portfolio/
 
 🚀 Features:
 🧑‍💻 Introduction and About Me section
